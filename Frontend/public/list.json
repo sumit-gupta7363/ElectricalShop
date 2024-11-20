@@ -1,0 +1,284 @@
+ [
+    {
+        "id":1,                                                                      
+        "name":"Wires",
+        "title":"polycab Lights",
+        "price":0,
+        "category":"Free",
+        "image":"Polycab fan.png"
+    },
+
+    {
+        "id":2,
+        "name":"Wire",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":40,
+        "category":"Etira",
+        "image":"EtiraWire.jpg.png"
+    },
+
+    {
+        "id":3,
+        "name":"Wire",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":700,
+        "category":"Optima LFFR ",
+        "image":"Optima LLFR.png"
+    },
+
+    {
+        "id":4,
+        "name":"Wire",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":75,
+        "category":"Green",
+        "image":"Greenwire.png"
+    },
+
+    {
+        "id":5,
+        "name":" Pannel Light",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":300,
+        "category":"18-30Watt",
+        "image":"18wattcelling light.png"
+    },
+    {
+        "id":6,
+        "name":"Panel Light",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":300,
+        "category":"15Watt",
+        "image":"celling light.png"
+    },
+     
+    {
+        "id":6,
+        "name":"Panel Light",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":300,
+        "category":"12Watt",
+        "image":"Pannel light.png"
+    },
+
+    {
+        "id":6,
+        "name":"Panel Light",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":300,
+        "category":"3Watt",
+        "image":"3wattcellinglight.png"
+    },
+
+    {
+        "id":7,
+        "name":"Polycab",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":7000,
+        "category":"Bldc",
+        "image":"electric.png"
+    },
+
+    {
+        "id":8,
+        "name":"Greatwhite",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":0,
+        "category":"Free",
+        "image":"greatwhite.png"
+    },
+
+    {
+        "id":9,
+        "name":"V-Guard",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":0,
+        "category":"Free",
+        "image":"v-guard.png"
+    },
+
+    {
+        "id":10,
+        "name":"Electricals items",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":0,
+        "category":"Free",
+        "image":"ElectricalsC.png"
+    },
+
+    {
+        "id":11,
+        "name":"Electricals items",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":0,
+        "category":"Free",
+        "image":"lexzoitem.png"
+    },
+
+    {
+        "id":12,
+        "name":"Electricals items",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":0,
+        "category":"Free",
+        "image":"Leds.png"
+    },
+    {
+        "id":13,
+        "name":"Electricals items",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":0,
+        "category":"Free",
+        "image":"tubelight.png"
+    },
+    {
+        "id":14,
+        "name":"Electricals items",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":0,
+        "category":"Free",
+        "image":"Remotebldcfan.png"
+    },
+    {
+        "id":15,
+        "name":"Electricals items",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":0,
+        "category":"Free",
+        "image":"Switchesmod.png"
+    },
+    {
+        "id":16,
+        "name":"Remote Fan",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":7000,
+        "category":"Bldc",
+        "image":"polycabbldc.png"
+    },
+
+    {
+        "id":17,
+        "name":"Zoomer DLX",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":7000,
+        "category":"Led Bulb",
+        "image":"zoomerdlx.png"
+    },
+
+    {
+        "id":18,
+        "name":"Zoomer Prime",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":7000,
+        "category":"Led Bulb",
+        "image":"zoomerprime.png"
+    },
+
+    {
+        "id":19,
+        "name":"Led Blub 9Watt",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":7000,
+        "category":"Led Bulb",
+        "image":"ledbulb 9watt.png"
+    },
+
+    {
+        "id":20,
+        "name":"Led Bulb 12Watt",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":7000,
+        "category":"Led Bulb",
+        "image":"ledbulb 12watt.png"
+    },
+
+    {
+        "id":21,
+        "name":"Led Bulb 15Watt",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":7000,
+        "category":"Led Bulb",
+        "image":"ledbulb 15watt.png"
+    },
+
+    {
+        "id":22,
+        "name":"Led Bulb 20Watt",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":7000,
+        "category":"Led Bulb",
+        "image":"ledbulb 20watt.png"
+    },
+
+    {
+        "id":23,
+        "name":"Electricals",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":7000,
+        "category":"items",
+        "image":"Board1.png"
+    },
+
+    {
+        "id":24,
+        "name":"Electricals",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":7000,
+        "category":"items",
+        "image":"Board2.png"
+    },
+
+    {
+        "id":25,
+        "name":"Electricals",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":7000,
+        "category":"items",
+        "image":"Board3.png"
+    },
+
+    {
+        "id":26,
+        "name":"Electricals",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":7000,
+        "category":"items",
+        "image":"Board4.png"
+    },
+
+    {
+        "id":22,
+        "name":"Polycab Pipe",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":7000,
+        "category":"Fitting",
+        "image":"Polycabpipes.png"
+    },
+
+    {
+        "id":22,
+        "name":"Crown Pipe",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":7000,
+        "category":"Fitting",
+        "image":"Crownpipes.png"
+    },
+
+    {
+        "id":22,
+        "name":"Junction box",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":7000,
+        "category":"Fitting",
+        "image":"junctionbox.png"
+    },
+
+    {
+        "id":22,
+        "name":"Cashing",
+        "title":"Night bulb it can shine the our room if all light",
+        "price":7000,
+        "category":"Fitting",
+        "image":"cashing.png"
+    }  
+ ]
